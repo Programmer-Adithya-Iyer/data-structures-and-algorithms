@@ -4,7 +4,7 @@ This is my curated list of **recursion-heavy / backtracking problems**.
 
 | Done | Problem # | Name | Difficulty | Link | Notes |
 |------|-----------|------|-----------|------|-------|
-| [ ] | 70 | Climbing Stairs | Easy | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | |
+| [x] | 70 | Climbing Stairs | Easy | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | |
 | [ ] | 509 | Fibonacci Number | Easy | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | |
 | [ ] | 78 | Subsets | Medium | [LeetCode](https://leetcode.com/problems/subsets/) | |
 | [ ] | 90 | Subsets II | Medium | [LeetCode](https://leetcode.com/problems/subsets-ii/) | |
